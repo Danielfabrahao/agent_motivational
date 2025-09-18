@@ -1,0 +1,4 @@
+smolagents[toolkit]
+openai
+ipykernel
+openpyxl
